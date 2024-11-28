@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Tutorial belajar React JS lengkap",
+    "tags": ["react", "frontend"],
+    "date": "2024-01-01",
+    "isNew": true
+  },
+  {
+    "title": "Meningkatkan skill dengan Node JS",
+    "tags": ["nodejs", "frontend"],
+    "date": "2024-04-01",
+    "isNew": false
+  },
+  {
+    "title": "Belajar Next JS dasar untuk pemula",
+    "tags": ["nextjs", "frontend"],
+    "date": "2024-03-01",
+    "isNew": false
+  }
+]
